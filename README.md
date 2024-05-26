@@ -54,19 +54,20 @@ Software utilizado para a construção do relatório, que contemplou 3 páginas:
 
 Nela constam as principais métricas e indicadores do processo de orçamentação, bem como visões de evolução histórica e de segmentação por cliente dessas métricas.
 
-![image](https://github.com/davifpereira/portfolio-python1/assets/144074745/84b4749e-078a-48fc-87a0-0080e27a52e0)
+![Página 1 - Panorama](https://github.com/davifpereira/portfolio-python1/assets/144074745/e66eeef4-e1ac-4696-aa6f-1c9f452127b8)
 
 #### Página 2 – Demonstrativo
 
 Nesta página constam sobretudo as tabelas de detalhamento da orçamentação. A primeira visão, inclusive, agrega os montantes orçados no período temporal escolhido, utilizando um formato similar a um DRE, da mesma forma que se encontra nos arquivos individuais de orçamentação.
 
-![image](https://github.com/davifpereira/portfolio-python1/assets/144074745/b56e3550-775a-4aca-9e85-4cd6b2a15090)
+![Página 2 - Demonstrativo](https://github.com/davifpereira/portfolio-python1/assets/144074745/9ea241c8-ebc0-4ebb-be14-bdf9fcac967d)
 
 #### Página 3 – Distribuição Geográfica
 
 Por fim, são trazidas visões relacionadas à distribuição geográfica dos orçamentos, baseadas nas principais métricas do negócio.
 
-![image](https://github.com/davifpereira/portfolio-python1/assets/144074745/90392fa3-3891-4b53-9151-1225f14a0213)
+![Página 2 - Distribuição Geográfica](https://github.com/davifpereira/portfolio-python1/assets/144074745/3a8a6e4c-41b8-468a-85f5-f9c96a95a002)
+
 
 
 
